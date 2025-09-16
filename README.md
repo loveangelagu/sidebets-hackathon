@@ -8,7 +8,7 @@ A fun, retro-inspired betting app where friends can create silly challenges and 
 
 ## 🚀 Project Status
 
-**🎉 Hackathon Complete:** Web version is live on [sidebets-g9j.caffeine.xyz](sidebets-g9j.caffeine.xyz)
+**🎉 Hackathon Complete:** Live on [sidebets-g9j.caffeine.xyz](sidebets-g9j.caffeine.xyz)
 
 **📱 Coming Soon:** Currently in development as an iOS app! Stay tuned for App Store release. 
 
