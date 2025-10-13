@@ -2,16 +2,7 @@
 
 A fun, retro-inspired betting app where friends can create silly challenges and bet virtual tokens on anything from *"How many tacos can Angela eat?"* to sports moments and current events. 
 
-![Status Live](https://img.shields.io/badge/Status-Live-green?style=for-the-badge)
-![Built with Caffeine AI](https://img.shields.io/badge/Built%20with-Caffeine%20AI-yellow?style=for-the-badge)
-
-
-## 🚀 Project Status
-
-**🎉 Hackathon Complete:** Live on [sidebets-g9j.caffeine.xyz](https://sidebets-g9j.caffeine.xyz)
-
-**📱 Coming Soon:** iOS app in progress! Stay tuned! 
-
+**🎉 Try it out here:** [Lovable Prototype](https://sidebet-buddy.lovable.app)
 
 ### 🌟 Key Features
 
@@ -63,13 +54,7 @@ A fun, retro-inspired betting app where friends can create silly challenges and 
    Result: "5 tacos" wins!
    → Smart payout distributes tokens to winners
    ```
-
-
-## 🎉 Built With Caffeine AI
-
-This entire project was conceptualized and built during a hackathon using Caffeine AI, showcasing the power of AI-assisted development for rapid prototyping and creative project execution.
-
-
+   
 ## 🤝 Let's Connect
 
 I’m always open to feedback, collaborations, or new opportunities. Drop me a message or just say hi!
